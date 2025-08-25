@@ -1,6 +1,21 @@
 # 📝 Keeper App  
+<!-- Keeper App Typing Indicator -->
+<img src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='20' viewBox='0 0 120 20' fill='%234CAF50'>
+  <circle cx='15' cy='10' r='5'>
+    <animate attributeName='r' values='5;2;5' dur='0.6s' repeatCount='indefinite' begin='0s'/>
+    <animate attributeName='fill-opacity' values='1;.3;1' dur='0.6s' repeatCount='indefinite' begin='0s'/>
+  </circle>
+  <circle cx='60' cy='10' r='5'>
+    <animate attributeName='r' values='5;2;5' dur='0.6s' repeatCount='indefinite' begin='0.2s'/>
+    <animate attributeName='fill-opacity' values='1;.3;1' dur='0.6s' repeatCount='indefinite' begin='0.2s'/>
+  </circle>
+  <circle cx='105' cy='10' r='5'>
+    <animate attributeName='r' values='5;2;5' dur='0.6s' repeatCount='indefinite' begin='0.4s'/>
+    <animate attributeName='fill-opacity' values='1;.3;1' dur='0.6s' repeatCount='indefinite' begin='0.4s'/>
+  </circle>
+</svg>" alt="Typing Indicator" />
 
-![Keeper App](https://img.shields.io/badge/Keeper%20App-React%20Notes-ffca28?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 > A modern, minimal, and interactive note-taking application inspired by **Google Keep**, built with **React.js** and **Material UI**.  
 
